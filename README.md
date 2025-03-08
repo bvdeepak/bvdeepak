@@ -36,7 +36,7 @@ I’m Deepak B V, a passionate and dedicated student pursuing my final year in *
   
 ## 📂 **Projects**  
 
-### 1. **AttendanceManagementSystemusingFaceRecognition**  
+### 1. **Attendance Management System using Face Recognition**  
 - **Description**: The Attendance Management System leverages Face Recognition technology to automate the process of recording attendance in a classroom or workplace setting. The system uses a camera to capture facial images of individuals as they enter the room, matches their faces with pre-stored images in the database, and logs their attendance accordingly  
 - **Technologies**: python, opencv, tkinter, numpy, pandas, tensorflow, streamlit
 
